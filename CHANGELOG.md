@@ -1,8 +1,11 @@
 # CHANGELOG
 
-## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.1...HEAD)
+## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.2...HEAD)
 
-## 2.1.0 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.0...v2.1.1)
+## 2.1.2 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.1...v2.1.2)
+- Fixed husky
+
+## 2.1.1 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.0...v2.1.1)
 - Fixed husky
 
 ## 2.1.0 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.0.1...v2.1.0)
