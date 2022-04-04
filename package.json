@@ -1,13 +1,13 @@
 {
   "name": "react-intl-universal-defaults",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Tool for react-intl-universal that allows using default locale when selecting translation",
   "keywords": [
     "react",
     "intl",
     "i18n"
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "test": "jest",
