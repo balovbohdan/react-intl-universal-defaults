@@ -60,7 +60,20 @@ UK locale:
 }
 ```
 
-**Step 2. Initialize react-intl-universal**
+**Step 2. Initialize react-intl-universal-defaults**
+
+```ts
+import * as intlDefaults from 'react-intl-universal-defaults';
+
+import enLocale from './locales/en.json';
+
+intlDefaults.initialize({
+  defaultLanguageTag: 'en',
+  defaultLocale: enLocale,
+});
+```
+
+**Step 3. Initialize react-intl-universal**
 
 ```ts
 import * as intl from 'react-intl-universal';
@@ -76,19 +89,6 @@ intl.init({
     en: enLocale,
     uk: ukLocale,
   },
-});
-```
-
-**Step 3. Initialize react-intl-universal-defaults**
-
-```ts
-import * as intlDefaults from 'react-intl-universal-defaults';
-
-import enLocale from './locales/en.json';
-
-intlDefaults.initialize({
-  defaultLanguageTag: 'en',
-  defaultLocale: enLocale,
 });
 ```
 
@@ -121,6 +121,6 @@ const SomeComponent = () => (
 The render result will be as follows:
 
 ```
-<span>I am intl</span>
+<span>I am Intl</span>
 <span>unique key</span>
 ```

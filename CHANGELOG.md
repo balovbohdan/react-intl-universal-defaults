@@ -1,6 +1,9 @@
 # CHANGELOG
 
-## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.5...HEAD)
+## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.6...HEAD)
+
+## 2.1.6 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.5...v2.1.6)
+- Updated [`README.md`](README.md)
 
 ## 2.1.5 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.4...v2.1.5)
 - Fixed deployment
