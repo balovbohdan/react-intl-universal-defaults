@@ -1,6 +1,9 @@
 # CHANGELOG
 
-## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.3...HEAD)
+## Unreleased - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.4...HEAD)
+
+## 2.1.4 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.3...v2.1.4)
+- Fixed [`package-lock.json`](package-lock.json)
 
 ## 2.1.3 - 2022-04-24 - [DIFF](https://github.com/balovbohdan/react-intl-universal-defaults/compare/v2.1.2...v2.1.3)
 - Fixed husky
