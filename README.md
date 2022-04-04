@@ -2,6 +2,10 @@
 
 This is a tool for react-intl-universal that allows using default locale when selecting translation.
 
+## References
+- [react-intl-universal](https://www.npmjs.com/package/react-intl-universal)
+- [Language Tags](https://en.wikipedia.org/wiki/IETF_language_tag)
+
 ## Example
 
 Prerequisites:
