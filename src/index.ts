@@ -1,1 +1,4 @@
-console.log('hellow world');
+import t from './t';
+import initialize from './initialize';
+
+export { t, initialize };
