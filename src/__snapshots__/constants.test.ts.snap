@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`constants ERRORS 1`] = `
+Object {
+  "NOT_INITIALIZED": "
+    Please, initialize react-intl-universal-defaults!
+    Doc: https://github.com/balovbohdan/react-intl-universal-defaults
+  ",
+}
+`;
