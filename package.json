@@ -1,6 +1,6 @@
 {
   "name": "react-intl-universal-defaults",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Tool for react-intl-universal that allows using default locale when selecting translation",
   "keywords": [
     "react",
