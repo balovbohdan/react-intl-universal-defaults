@@ -1,6 +1,6 @@
 {
   "name": "react-intl-universal-defaults",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Tool for react-intl-universal that allows using default locale when selecting translation",
   "keywords": [
     "react",
@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "intl-messageformat": "^9.12.0",
-    "react": "^16.8.0",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-intl-universal": "^2.4.12"
   },
   "devDependencies": {
